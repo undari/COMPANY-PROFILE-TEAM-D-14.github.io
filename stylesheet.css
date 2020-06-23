@@ -97,6 +97,14 @@ a {
   z-index: 10;
 }
 
+.header-left a {
+    line-height: 65px;
+    padding: 0 25px;
+    color: white;
+    font-size: larger;
+    font-weight: bolder;
+}
+
 .logo {
   width: 124px;
   margin-top: 20px;
