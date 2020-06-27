@@ -197,26 +197,23 @@ a {
   box-shadow: none;
 }
 
-footer img {
+.footer img {
   width: 125px;
 }
 
-footer p {
+.footer p {
   color: #b3aeb5;
   font-size: 12px;
 }
 
-footer {
-	width: 100%;
-  background-color: rgba(95, 158, 160, 0.9);
-  bottom: 0;
-  color: blue;
-  margin-top: 10px;
-  padding-top: 30px;
-  padding-bottom: 20px;
-  text-align: center;
-}
-
+ .footer {
+      padding-top: 30px;
+      padding-bottom: 20px;
+      color: blue;
+      background-color: #3d3a3a;
+      font-weight: bold;
+      margin-top:100px;
+  }
 
 /* Ketik code Anda dibawah */
 .menu-icon {
