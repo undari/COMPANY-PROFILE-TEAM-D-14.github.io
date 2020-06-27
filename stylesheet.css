@@ -197,18 +197,24 @@ a {
   box-shadow: none;
 }
 
-.footer img {
+footer img {
   width: 125px;
 }
 
-.footer p {
+footer p {
   color: #b3aeb5;
   font-size: 12px;
 }
-.footer {
+
+footer {
+	width: 100%;
+  background-color: rgba(95, 158, 160, 0.9);
+  bottom: 0;
+  color: #fff;
+  margin-top: 10px;
   padding-top: 30px;
   padding-bottom: 20px;
-  background-color: #f7f7f7;
+  text-align: center;
 }
 
 
